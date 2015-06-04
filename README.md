@@ -1,3 +1,3 @@
 # TESTRepository
-Testing 1st repository
-Another test
+Testing 1st repository.
+Another test.
